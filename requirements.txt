@@ -1,0 +1,13 @@
+streamlit
+pandas
+python-dotenv
+langchain
+langchain-community
+langchain-openai
+langchain-google-genai
+langchain-experimental
+faiss-cpu
+pypdf
+unstructured
+tabulate
+openai
